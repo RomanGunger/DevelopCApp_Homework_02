@@ -1,0 +1,14 @@
+/Users/romangunger/Projects/DevelopCApp_Homework_02/DevelopCApp_Homework_02/bin/Debug/net7.0/DevelopCApp_Homework_02
+/Users/romangunger/Projects/DevelopCApp_Homework_02/DevelopCApp_Homework_02/bin/Debug/net7.0/DevelopCApp_Homework_02.deps.json
+/Users/romangunger/Projects/DevelopCApp_Homework_02/DevelopCApp_Homework_02/bin/Debug/net7.0/DevelopCApp_Homework_02.runtimeconfig.json
+/Users/romangunger/Projects/DevelopCApp_Homework_02/DevelopCApp_Homework_02/bin/Debug/net7.0/DevelopCApp_Homework_02.dll
+/Users/romangunger/Projects/DevelopCApp_Homework_02/DevelopCApp_Homework_02/bin/Debug/net7.0/DevelopCApp_Homework_02.pdb
+/Users/romangunger/Projects/DevelopCApp_Homework_02/DevelopCApp_Homework_02/obj/Debug/net7.0/DevelopCApp_Homework_02.GeneratedMSBuildEditorConfig.editorconfig
+/Users/romangunger/Projects/DevelopCApp_Homework_02/DevelopCApp_Homework_02/obj/Debug/net7.0/DevelopCApp_Homework_02.AssemblyInfoInputs.cache
+/Users/romangunger/Projects/DevelopCApp_Homework_02/DevelopCApp_Homework_02/obj/Debug/net7.0/DevelopCApp_Homework_02.AssemblyInfo.cs
+/Users/romangunger/Projects/DevelopCApp_Homework_02/DevelopCApp_Homework_02/obj/Debug/net7.0/DevelopCApp_Homework_02.csproj.CoreCompileInputs.cache
+/Users/romangunger/Projects/DevelopCApp_Homework_02/DevelopCApp_Homework_02/obj/Debug/net7.0/DevelopCApp_Homework_02.dll
+/Users/romangunger/Projects/DevelopCApp_Homework_02/DevelopCApp_Homework_02/obj/Debug/net7.0/refint/DevelopCApp_Homework_02.dll
+/Users/romangunger/Projects/DevelopCApp_Homework_02/DevelopCApp_Homework_02/obj/Debug/net7.0/DevelopCApp_Homework_02.pdb
+/Users/romangunger/Projects/DevelopCApp_Homework_02/DevelopCApp_Homework_02/obj/Debug/net7.0/DevelopCApp_Homework_02.genruntimeconfig.cache
+/Users/romangunger/Projects/DevelopCApp_Homework_02/DevelopCApp_Homework_02/obj/Debug/net7.0/ref/DevelopCApp_Homework_02.dll
